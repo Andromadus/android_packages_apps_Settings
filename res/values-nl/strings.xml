@@ -1699,4 +1699,106 @@
     <string name="help_label" msgid="1107174367904110532">"Help"</string>
     <string name="cell_broadcast_settings" msgid="8415582011920085222">"Cell broadcasts"</string>
     <string name="cell_broadcast_settings_summary" msgid="3301339398950905913">"Selecteer de typen noodoproepen die moeten worden weergegeven."</string>
+	
+	<!-- vertaling door djpbx / translation by djpbx -->
+	    <!-- Profiles settings  -->
+    <string name="profiles_settings_title">Profielen</string>
+    <string name="profiles_general_title">Standaard</string>
+    <string name="profiles_add">Voeg toe</string>
+    <string name="profile_menu_delete">Verwijder</string>
+    <string name="profile_settings_title">Profielen</string>
+    <string name="profile_empty_list_profiles_off">Om profielen in te stellen en te gebruiken, zet Profielen aan.</string>
+
+    <!-- Add Profile -->
+    <string name="add_profile_dialog_title">Nieuw profiel</string>
+    <string name="profile_name_title">Naam</string>
+    <string name="profile_profile_name_prompt">Voer een naam in voor het nieuwe profiel</string>
+    <string name="menu_new_profile">Nieuw profiel</string>
+    <string name="menu_new_profile_summary">Voeg een nieuw profiel toe en stel deze in</string>
+    <string name="new_profile_name">&lt;nieuw profiel&gt;</string>
+
+    <!-- Rename Dialog  -->
+    <string name="rename_dialog_title">Hernoem</string>
+    <string name="rename_dialog_message">Voer een nieuwe naam in</string>
+    <string name="duplicate_profile_name">Dupliceer profielnaam!</string>
+    <string name="duplicate_appgroup_name">Dupliceer applicatiegroep naam!</string>
+
+    <!-- Reset Profiles -->
+    <string name="profile_reset_title">Reset</string>
+    <string name="profile_reset_message">Moeten alle profielen en applicatiegroepen verwijderd worden en terug naar standaard ingesteld worden?</string>
+
+    <!-- Delete confimation messages -->
+    <string name="profile_delete_confirm">Profiel verwijderen?</string>
+    <string name="profile_app_delete_confirm">Applicatie verwijderen?</string>
+    <string name="profile_cannot_delete">Een actief profiel kan niet verwijderd worden!</string>
+
+    <!-- Profile Config screen PreferenceGroup titles -->
+    <string name="profile_connectionoverrides_title">Verbinding overrides</string>
+    <string name="profile_volumeoverrides_title">Volume overrides</string>
+    <string name="profile_vibratoroverrides_title">Vibratie overrides</string>
+    <string name="connection_state_disabled">Uitschakelen</string>
+    <string name="connection_state_enabled">Inschaleken</string>
+    <string name="volume_override_summary">Stel in op</string>
+    <string name="vibrator_state_disabled">Uitschakelen</string>
+    <string name="vibrator_state_enabled">Inschakelen</string>
+    <string name="vibrator_state_silent">Alleen als stil.</string>
+
+    <!-- Menu item for managing profiles -->
+    <string name="profile_profiles_manage">Profielen</string>
+    <string name="profile_profile_manage">Beheer profielen</string>
+    <string name="profile_applist_manage">Applicatielijst</string>
+    <string name="profile_appgroups_manage">Applicatiegroepen</string>
+    <string name="profile_appgroup_manage">Beheer applicatiegroepen</string>
+
+    <!-- Profile settings screen, section header for settings related to notification profiles -->
+    <string name="profile_settings">Profilelinstellingen</string>
+    <string name="profile_name">Naam</string>
+
+    <!-- Profile Settings sound modes labels -->
+    <string name="sound_mode">Notificatie mode</string>
+    <string name="ringer_mode">Ring mode</string>
+    <string name="lights_mode">Licht mode</string>
+    <string name="vibrate_mode">Vibratie mode</string>
+    <string name="choose_soundtone">Kies notificatietoon</string>
+    <string name="choose_ringtone">Kies ringtone/string>
+
+    <!-- Sound settings screen, setting option name to pick ringtone (a list dialog comes up)-->
+    <string name="soundtone_title">Notificatietoon</string>
+    <string name="soundtone_summary">""</string>
+
+    <!-- Title for application group setting screen -->
+    <string name="profile_appgroups_title">Applicatiegroepen</string>
+    <string name="profile_applist_title">Applicaties</string>
+    <string name="profile_new_appgroup">Nieuwe applicatiegroep</string>
+    <string name="profile_delete_appgroup">Deze applicatiegroep verwijderen?</string>
+    <string name="profile_appgroup_name_prompt">Voer een naam in voor de nieuwe applicatiegroep</string>
+    <string name="profile_appgroup_name_title">Naam</string>
+    <string name="profile_add_app">Voeg applicatie toe</string>
+    <string name="profile_delete_app">Applicatie verwijderen</string>
+
+    <!-- Add application dialog box title -->
+    <string name="profile_choose_app">Applicatie kiezen</string>
+    <string name="profile_settings_header">profielinstellingen</string>
+
+    <!-- Profiles - system settings -->
+    <string name="profile_system_settings_title">Systeeminstellingen</string>
+    <string name="profile_lockmode_title">Vergrendelscherm-modus</string>
+    <string name="profile_lockmode_default">Standaard</string>
+    <string name="profile_lockmode_insecure">Onbeveiligd</string>
+    <string name="profile_lockmode_disabled">Uitgeschakeld</string>
+    <string name="profile_lockmode_default_summary">Gebruik systeemstandaard</string>
+    <string name="profile_lockmode_insecure_summary">Gebruik onbeveiligd vergrendelscherm</string>
+    <string name="profile_lockmode_disabled_summary">Vergrendelscherm is uitgeschakeld</string>
+    <string name="profile_airplanemode_title">Vliegtuigmodus</string>
+    <string name="profile_airplanemode_default">Standaard</string>
+    <string name="profile_airplanemode_enabled">Ingeschakeld</string>
+    <string name="profile_airplanemode_disabled">Uitgeschakeld</string>
+    <string name="profile_airplanemode_default_summary">Gebruik systeemstandaard</string>
+    <string name="profile_airplanemode_enabled_summary">Vliegtuigmodus is ingeschakeld</string>
+    <string name="profile_airplanemode_disabled_summary">Vliegtuigmodus is uitgeschakeld</string>
+    <string name="profile_disable_screen_lock_summary">Zet ontgrendelbeveiliging uit als dit profiel actief is.</string>
+
+    <string name="vibrator_type_ringer">Oproepen</string>
+    <string name="vibrator_type_notification">Notificaties</string>
+
 </resources>
