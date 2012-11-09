@@ -2530,4 +2530,31 @@
     <string name="gestures_action_recent">Запущенные приложения</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
+
+    <!-- Andromadus -->
+    <string name="andromadus_settings">Andromadus</string>
+    <string name="andromadus_general">Общие</string>
+    <string name="andromadus_statusbar">Строка состояния</string>
+    <string name="andromadus_notification_drawer">Панель уведомлений</string>
+    <string name="pref_statusbar_sixbar_signal_title">6 уровней индикатора сигнала сети</string>
+    <string name="pref_statusbar_sixbar_signal_summary">Модифицированный индикатор сигнала сети с шестью состояниями вместо стандартного</string>
+    <string name="pref_trackball_wake_toggle_title">Включение трекпадом</string>
+    <string name="pref_trackball_wake_toggle_summary">Нажатие на трекпад включает устройство</string>
+    <string name="pref_trackball_unlock_toggle_title">Разблокировка трекпадом</string>
+    <string name="pref_trackball_unlock_toggle_summary">Повторное нажатие трекпада разблокирует устройство</string>
+    <!-- Setting for Camera button play/pause controls -->
+    <string name="cambtn_music_controls_title">Управление плеером кнопкой камеры</string>
+    <string name="cambtn_music_controls_summary">При выключенном экране нажатие кнопки камеры ставит плеер на паузу или продолжает воспроизведение</string>
+    <!-- Show Brightness Toggleslider -->
+    <string name="pref_show_brightness_toggleslider_title">Регулятор яркости</string>
+    <string name="pref_show_brightness_toggleslider_summary">Будет расположен в верхней части панели уведомлений</string>
+    <!-- Sweep 2 Wake Settings -->
+    <string name="sweep2wake_title">Sweep2Wake</string>
+    <string name="sweep2wake_pref_0">Отключить</string>
+    <string name="sweep2wake_summary">%s</string>
+    <string name="sweep2wake_pref_1">Включить</string>
+    <string name="sweep2wake_pref_2">Включить и использовать подсветку</string>
+
+    <!-- **** ANDROMADUS ADDITIONS END **** -->
+
 </resources>
